@@ -41,7 +41,7 @@
 <div align="center">
   <h2>🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mmaduwantha/Mmaduwantha/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Mmaduwantha/Mmaduwantha/blob/main/Snackflow.yml" />
   
   <br/><br/><br/>
 </div>
